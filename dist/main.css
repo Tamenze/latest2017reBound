@@ -1,0 +1,25 @@
+body{
+	background-color: green;
+}
+
+.searchEntries{
+	width: 75%;
+	border: 1px solid gray;
+	text-align: center;
+}
+
+.form-control{
+	width: 50%;
+	display: inline;
+	margin: 10px;
+}
+
+#sorty{
+	float:right;
+}
+
+#map{
+	width:500px;
+	height: 500px;
+	margin: 0 auto;
+}
